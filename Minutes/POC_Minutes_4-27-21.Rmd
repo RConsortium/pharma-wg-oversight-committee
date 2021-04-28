@@ -1,0 +1,62 @@
+---
+title: "POC_Minutes_4-27-21"
+author: "Joseph Rickert"
+date: "4/27/2021"
+output: html_document
+---
+
+Meeting of the R Consortium Pharmaceutical Industry Working Groups Oversight Committee (POC)
+Minutes prepared by Joseph Rickert
+
+Attendees:
+Keaven Anderson - Merck
+Paulo Bargo - Janssen
+Bob Engle - Biogen
+Ning Leng - Genentech
+Andy Nicholls - GSK
+Joseph Rickert - RStudio
+
+
+Joseph Rickert (JBR) brought the meeting to order with the following agenda:
+
+* Goal of Committee (10 Minutes)
+* Discussion about  a partnership with PHUSE ( 20 Minutes)
+* Discussion about working group strategy (20 Minutes)
+* Set cadence of meetings (5 Minutes)
+
+JBR elaborated on the mission and scope of the committee:
+
+For Pharma related ISC working groups the POC will: 
+* Set overall strategy and coordinate activities
+* Coordinate WG activities with overall RC Goals
+* Allocate RC funding and manage funding
+
+ISC working groups managed by the committee will include:
+* RTRS
+* Submissions
+* R Validation Hub
+* R / Pharma 
+
+Additional responsibilities of the POC will include:
+* Coordinating Pharma related activities with R Consortium partners and associates including: PHUSE, PSI, ASA, FDA, Transcelerate, NISS
+* Staffing participation in strategic joint projects such as the PHUSE working group: Clinical Statistical Reporting in a Multilingual World
+* Advising the RC Marketing Committee on conferences and events to promote, support, and fund
+
+JBR informed the committee that PHUSE had approached the R Consortium seeking a partnership and had submitted a draft Memorandum of Understanding (See Documents Folder). He also said that the RC Board of Directors would be hosting a discussion with PHUSE management before the board meeting to be held on 4/28/21. 
+
+JBR asked the committee for advice. There was general agreement that a relationship with PHUSE would benefit the R Consortium and specifically noted that * PHUSE has long standing relationships with the FDA and other regulatory agencies
+* A considerable number of biostatisticians proficient in SAS are PHUSE members and that a relationship with PHUSE would expose R to these members
+
+It was also noted that relationships with PSI and the Biopharmaceutical section of the ASA would also be beneficial.
+
+There was a wide ranging discussion about the various activities of ISC working groups with pharma related activities. The group agreed that the working groups listed above, especially the R Validation Hub were leading the industry in the effort to make "All R" regulatory submissions possible. It was also proposed that if the Validation Hub could gain industry consensus on a system to validate R packages it would encourage other pharma companies to join the consortium.
+
+The members agreed that the next steps for the POC would be to become familiar with the activities of the ISC pharma working groups. JBR took the action item to ask representatives of the various working groups to present and future meetings.
+
+The group also agreed that for the near future they should meet monthly on either Wednesday or Thursday mornings. JBR agreed to schedule the next meeting.
+
+The meeting was recorded. The video is available at:
+https://zoom.us/rec/share/mMl6kY8dSZD9OM-rbPEJtEb8oSCd-fyAHa7OEV7x4Iv9iXTVIOXZXWiVHcBMrFCm.iKCePdCck6pAVKV9 Passcode: PUA2.^iS
+
+
+
