@@ -1,0 +1,111 @@
+---
+title: "POC_Minutes_5-19-21"
+author: "Joseph Rickert"
+date: "5/19/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Meeting of the R Consortium Pharmaceutical Industry Working Groups Oversight Committee (POC)
+Minutes prepared by Joseph Rickert
+
+Attendees:   
+
+* Keaven Anderson - Merck
+* Bob Engle - Biogen
+* Ning Leng - Genentech
+* Andy Nicholls - GSK
+* Joseph Rickert - RStudio
+
+
+Joseph Rickert brought the meeting to order. 
+
+Joe briefed the attendees on the MOU with PhUSE.
+
+* RC Lawyers have reviewed the MOU and made suggestions
+* We have transmitted our revised MOU to PhUSE and are waiting for their response
+* The RC marked up copy of the MOU will be put into the documents section of the POC repo.
+
+Joe briefed the attendees on the activities of the R Submissions working group:
+
+* The submissions working group has written to Ethan Chen, Director of the Division of Data Management Services and Solutions.
+* The text of the email letter is included at the bottom of this document.
+
+The group discussed the advantages of keeping track of what projects are going on in the industry. There was agreement that it would be helpful:   
+
+* in avoiding duplicate projects
+* Establishing the RC as the center for cooperation 
+* Ning offered the google spreadsheet as a first attempt to track activities:  https://docs.google.com/spreadsheets/d/1ihntuuGTlXWUEJS79GDd0QS_oSRu5UM4T26cF-zQQ7s/edit#gid=0
+* It was suggested that we could build a public facing web page to communicate this information.
+
+Groups discussed included:   
+
+* Eu programming
+* NISS (not really relevant)
+* PSI (It was noted that in the UK, statisticians tend to join PSI and programmers join PhUSE.)
+* Bureau of Labor Statistics
+* ASA
+* ASA BioPharmaceutical Section (well funded) Keaven will look for a contact.
+* Statistical Computing and Graphics Section
+
+
+The attendees discussed the status of the R / Pharma Conference  
+
+* Keaven and Bob both attended a recent organizational meeting
+* Joe noted that the R / Pharma organizers are not including minutes in the RC Repo. It was noted, that R / Pharma is using a slack channel to communicate.
+* Joe expressed concern that the R / Pharma organizers know that the of recent activity with the R/Medicine conference the R Consortium as put procedures in place deal with take sponsorship money, manage conference registration, etc.
+
+
+Joe briefed the attendees on Directed Funding which will be voted on by the R Consortium Board. He explained how member companies will be able to direct some portion of their membership dues to R Consortium designated projects. Joe does not expect that there will be many choice for this year because to his knowledge, no group is asking for money. The group concurred that Directed Funding:  
+
+* will be helpful for attracting new members to the RC 
+* Establish the RC as the place for Pharmaceutical companies to cooperate.
+
+Andy introduced the topic of the R Adoption Series  
+
+* It was originally proposed to PhUSE
+* PhUSE does not appear to be interested because it sounded like training and they do not do training.
+* Raised the issue of the RC taking this over and perhaps associating it with the R / Pharma conference
+* Joe stated that the RC has the infrastructure in place to run the R Adoption Series.
+* Andy will discuss having the RC run the  R Adoption series with the R Adoption organizers.
+
+Joe briefed the group on the proposed RC webinar series that is being undertaken by the RC marketing committee:  
+
+* Possible topics include diversity and open source
+* There was some discussion about diversity being an important topic to the industry.
+
+The next meeting is scheduled for 9AM Pacific Time on Wednesday June 16, 2021.
+
+
+### Text of letter sent to Ethan Chen
+May 13, 2021
+
+Director Ethan Chen
+Division of Data Management Services and Solutions
+
+
+Dear Director Chen:
+
+I am writing to you at the recommendation of Paul Schuette (CDER/OTS/OB) on behalf of the R Submissions Working Group which is organized under the R Consortium*. Our working group, primarily composed of representatives from several different pharmaceutical companies, is engaged in an effort to explore and address challenges in adapting our regulatory submission process to accommodate submissions using the R programming language. We are part of a larger effort to facilitate the use of R in the regulatory process that includes the R Consortium working groups: the R Validation Hub and R Tables for Regulatory Submissions, and the PhUSE working group Clinical Statistical Reporting in a Multilingual World. This work is also in alignment with the Transcelerate MSA framework by pioneering the regulatory delivery of analysis using more rapidly developed, open source tools.
+
+We are presently working on a pilot submission to demonstrate that it is possible to make all R submissions in a manner that is consistent with the FDA's infrastructure and processes. Because this project is a multi-company, collaborative project being undertaken on behalf of the Pharmaceutical industry, we would like to explore the possibility of registering the R Consortium as a sponsor for the pilot submission. By registering a public and cross-pharma group as a sponsor, we hope to develop pilots in the open, without requiring an individual industry sponsor to manage a pilot submission.
+
+We appreciate that this would be somewhat out of the ordinary and would like your guidance in this effort. We would very much appreciate it if you, or someone from your office, could attend our next general meeting to discuss the feasibility of having the R Consortium as a sponsor. The meeting is scheduled for 12PM Eastern time on Friday, June 4, 2021.
+
+Please let me know if this is possible.
+
+Sincerely,
+
+
+Joseph B. Rickert      
+Chair, R Consortium Board of Directors
+
+
+*The R Consortium] is a non-profit organization with the mission to support the R Language, the R Foundation and the R Community.
+
+
+
+Jose
