@@ -1,0 +1,72 @@
+---
+title: "POC_Minutes_6-16-21"
+author: "Joseph Rickert"
+date: "6/16/2021"
+output: html_document
+---
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Meeting of the R Consortium Pharmaceutical Industry Working Groups Oversight Committee (POC)
+Minutes prepared by Joseph Rickert
+
+Attendees:   
+
+* Keaven Anderson - Merck
+* Sumesh Kalappurakal - J&J
+* Ning Leng - Genentech
+* Andy Nicholls - GSK
+* Joseph Rickert - RStudio
+
+Bob Engle from Biogen was not in attendance.
+
+Joseph Rickert (JBR) brought the meeting to order and introduced Sumesh who is replacing Paulo Bargo on the committee as Paulo has left J&J to join Ethicon. At Sumesh's request JBR explained the structure of the committee and its responsibilities and also described the mission, organization and activities of the R Consortium. This included a discussion of the R Consortium's source of income (membership dues) and the various R Consortium entities: the ISC, marketing committee and top level projects: RUGS, R-Ladies, Diversity Committee and R-Hub that get regular funding from the Board. 
+
+JBR listed three items on the agenda;
+1. Directed Funding
+2. New R Consortium partnerships
+3. The R/Pharma situation
+
+### Directed Funding
+JBR explained how the Board has resolved that every year member companies may reserve a portion of their dues towards projects that the Board approves for this purpose. He also asked those present to make recommendations about which groups should be be eligible for directed funding. JBR asked the committee to decide which pharma related groups should be eligible for directed funding. He asked members to send him email with their selections.
+
+A question was asked about the process of making decisions about what projects to move forward. JBR stated that the group ought to produce a strategy document.
+
+It was suggested that an area where investing a small amount of money would have a big impact is providing governance for open sourcing software. When asked whether the R Consortium could take on the responsibility, JBR answered yes. The group expressed a desire to explore this.
+
+James noted that Roche open sourced `rtables` but is keeping ownership. There is another Roche project that requires joint development. Sumesh confirmed that Roche and J&J are discussing collaborating on software development.
+
+### Partnerships
+JBR informed the group about recent partnerships with PHUSE and PSI. A suggestion was made to consider the Drug Information Association.
+
+JBR asks the group to make recommendation on what other companies we would like to join the R Consortium. He suggests that Novartis would be a good candidate, because they are active in R/Pharma and other R Consortium working groups.
+
+
+### R/Pharma
+JBR provided some background on R/Pharma, mentioned that it was organized as an RC working group. He referenced the email he recently sent to R/Pharma outlining the new capabilities and procedures the R Consortium has put into place for R/Medicine that will simplify the process of producing R Consortium conferences. These capabilities include procedures fro satisfying GDPR requirements, managing contracts, and implementing a crowd funding systems to allow working groups to manage money. 
+
+JBR also mentioned that to continue to be a working group in good standing a working group had some responsibilities such as keeping minutes of meetings. The committee asked questions about how detailed minutes needed to be. A committee member suggested that perhaps not all working groups understood either the purpose of keeping minutes, or the level of detail required. JBR stated that the purpose was to be transparent about what was taking place in meetings, to show that the groups were doing the work authorized, and to provide some assurance that the R Consortium is in compliance with the antitrust laws. (See below.)
+
+James, a member of the R/Pharma organizing committee, described how in the past  R/Pharma organizers reached out to the RC and Linux Foundation for assistance in producing the conference, but were not happy with what they heard. He suggested that the committee should make a fresh start and meet with the R/Pharma organizers.
+
+
+### Action Items
+
+* The committee agrees to set up a meeting discuss open sourcing software. JBR will put this on the agenda for the next meeting.
+* Committee members will consider what role the R Consortium might play in open sourcing software. JBR will put this on the agenda for the next meeting.
+* Committee members will inform JBR by email about which pharma related working groups the committee should recommend be eligible for directed funding.
+* JBR will inform the working groups that if they want to request funding for initiatives between now and the end of the year they should make that known.
+* James will set up a meeting with the R/Pharma organizers
+
+
+### Antitrust Compliance
+This antitrust compliance statement is read  at the beginning of all R Consortium Board meetings.
+
+* R Consortium meetings involve participation by industry competitors, and it is the intention of the R Consortium to conduct all of its activities in accordance with applicable antitrust and competition laws. It is therefore extremely important that attendees adhere to meeting agendas, and be aware of, and not participate in, any activities that are prohibited under applicable US state, federal or foreign antitrust and competition laws. 
+
+* Examples of types of actions that are prohibited at R Consortium meetings and in connection with R Consortium activities are described in the R Consortium Antitrust Policy. If you have questions about these matters, please contact your company counsel, or if you are a member of the R Consortium, feel free to contact Andrew Updegrove of the firm of Gesmer Updegrove LLP, which provides legal counsel to the R Consortium.
+
