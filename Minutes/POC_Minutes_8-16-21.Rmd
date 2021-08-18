@@ -1,0 +1,51 @@
+---
+title: "POC_Minutes_8-16-21"
+author: "Joseph Rickert"
+date: "8/18/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Minutes of the Pharma Oversight Committee 
+
+### Attendees
+* Keaven - Anderson - MERCK
+* Bob Engle - Biogen
+* Ning Leng - Roche
+* Joseph Rickert - RStudio
+
+Joseph brought the meeting to order and began by informing the group of some recent R Consortium news:
+
+* Hadley Wickham is stepping down as chair of the ISC, but will continue to participate as the RStudio representative. This will trigger an election for the new chair
+* The ISC has approved the new *R Repositories* working group which will be the place to address community issues such as the recent petition from cran_change.org and also technical issues relating to R package repositories. For example, James Black raised the issue in the ISC meeting that Roche was having trouble getting updates to packages on CRAN on a schedule that would line up with their FDA submissions. Joe suggested that a solution to this kind of problem might be to have a "Pharma Repo" that could be used for this purpose.
+
+This second item triggered a discussion about the possibilities of having additional CRAN like repos for pharma. Ning mentioned that there is a Roche "Pharmaverse* group that may have an interest. Ning will contact this group. Joe took an **Action Item** to ask Paul Schutte of the FDA if there is any possibility that the FDA would accept packages from anywhere else than CRAN.
+
+Joe mentioned that the second ISC call for proposals would open in September and asked those present if they could suggest projects for funding that would be of interest to pharma companies. The discussion turned towards the differences in the interests between the clinical side and the research organizations within pharma companies. The discussion yielded two possible topics:
+
+1. Demonstrating regulatory compliance for machine learning algorithms, random forests for example.
+2. The FDA has been interested in covariance adjustment for which there are R packages but not much in SAS. A paper on this (and maybe an CRAN Task View) would be helpful.
+
+Next, Joe asked for help and advice on the R Consortium's COVID-19 related projects. He mentioned that the next COVID-19 Data Forum would be devoted to vaccine topics, and asked if anyone could recommend speakers. **Action Item** Keaven said that he would send Joe the names of possible speakers.
+
+Joe asked the committee to look at the [COVID-19 Data Hub](https://covid19datahub.io/) and asked the group evaluate its importance and long term utility.
+
+Joe also mentioned the R Epidemics Consortium ([RECON](https://www.repidemicsconsortium.org/)) and asked if the committee though that Pharma would be interested in their work. Joe also mentioned that last year the ISC funded the [RECON COVID-19 challenge](https://www.repidemicsconsortium.org/2020-06-09-covid-challenge/) Joe promised to make the links that you see here available.
+
+Joe then asked for advice on how to best support our partners PHUSE and PSI. He mentioned that he has been attending the PHUSE working group CSRMLW Clinical Statistical Reporting in a Multilingual World which is working on assessing the differences between SAS and R in four areas of statistical analyses: linear models, mixed models, survival and cmh. See the [CSRMLW GitHub Repo](https://github.com/phuse-org/CSRMLW) for details. There was some excitement about this and the committee thought that there would lots of interest from pharma statisticians in exploring the differences between SAS and R in a Markov Chain approach to Mixed Models for Repeated Measures (MMRM). 
+
+**Action Item** the committee suggested that MMRM would be a great topic for and R Consortium webinar, especially if we could present it as a panel discussion with an FDA statistician participating. Joe will bring this to the Marketing Committee.
+
+**Action Item** the committee also suggested that discussion of cross industry working groups would make an excellent R/Pharma session. Ning said that she is working with the R/Pharma organizers to plan a session on RC working groups.
+
+Joe then asked the committee's help and advice on recruiting new members to the R Consortium. One excellent suggestion would be to have an *Why Join the R Consortium?* webinar as part of the R Adoption webinar series. The format suggested was a short talk followed by a panel discussion of RC members talking about the benefits of joining and issues related to promoting the idea within a pharma company or other organization. **Action Item** Joe will bring this idea to the marketing committee. 
+
+Finally, there was a discussion about the composition of the ISC. Joe noted that, as a Platinum level member, Biogen is entitled to appoint a representative.
+**Action Item** Joe also stated that he would be in favor of member companies who are not entitled to ISC seats sending representatives to observe and participate in the discussion. He promised to take this matter to the ISC.
+
+The next meeting of the committee is scheduled for 9AM Pacific Time on Wednesday, September 15, 2021.
+
+
