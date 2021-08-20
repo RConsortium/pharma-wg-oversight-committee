@@ -27,7 +27,7 @@ This second item triggered a discussion about the possibilities of having additi
 Joe mentioned that the second ISC call for proposals would open in September and asked those present if they could suggest projects for funding that would be of interest to pharma companies. The discussion turned towards the differences in the interests between the clinical side and the research organizations within pharma companies. The discussion yielded two possible topics:
 
 1. Demonstrating regulatory compliance for machine learning algorithms, random forests for example.
-2. The FDA has been interested in covariance adjustment for which there are R packages but not much in SAS. A paper on this (and maybe an CRAN Task View) would be helpful.
+2. The FDA has been interested in covariate adjustment for which there are R packages but not much in SAS. A paper on this (and maybe an CRAN Task View) would be helpful.
 
 Next, Joe asked for help and advice on the R Consortium's COVID-19 related projects. He mentioned that the next COVID-19 Data Forum would be devoted to vaccine topics, and asked if anyone could recommend speakers. **Action Item** Keaven said that he would send Joe the names of possible speakers.
 
