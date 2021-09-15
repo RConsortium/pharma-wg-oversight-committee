@@ -1,0 +1,41 @@
+---
+title: "POC_Minutes_9-15-21"
+author: "Joseph Rickert"
+date: "9/15/2021"
+output: html_document
+---
+
+## Minutes of the Pharma Oversight Committee 
+
+### Attendees
+* Keaven - Anderson - MERCK
+* Ning Leng - Roche
+* Andy Nicholls - GSK
+* Joseph Rickert - RStudio
+* Brian Warner - Linux Foundation
+
+Joe brought the meeting to order with a reminder of the purpose of the oversight committee:
+1. Develop a coherent strategy for pharmaceutical related R Consortium activities relating to working groups, ISC grants, working with partners etc.
+2. proactively generate ideas on how the RC could help the pharmaceutical industry.
+3. Allocate and manage money
+4. How to provide guideline for pharma related working groups and activities
+
+The last point initiated a discussion about the R/Pharma conference and the need for the RC to understand their needs and provide appropriate oversight. For example, it is not clear that they have made adequate provisions for complying with GDPR regulations.
+
+Brian Warner described the work that the RC and the Linux Foundation have done over the past year to put the policies, procedures in place to enable a working group to run a virtual conference with considerable autonomy. These include the ability to sign contracts, process conference sponsorships and receive donations designated for working group use.
+
+The discussion turned to reports that the R / Pharma organizers are still considering forming their own non-profit organization. The R / Pharma organizers apparently think it would be in their best interest to take the "R-Ladies" route: become a not-profit organization and secure funding from the R Consortium and other organizations. Joe pointed out that although it is true that R-Ladies is both an R Consortium Top Level project and an independent non-profit organization, there is no "R-Ladies route". The R-Ladies situation arose out of a unique set of circumstances that are not likely to be repeated.
+
+The sentiment of those present was that they would not like to see R/Pharma break away from the R Consortium. Many of the same people and companies are involved in both efforts, and a break would only diminish both projects. Overlapping and competing working groups and conferences would make it difficult for sponsoring companies.
+
+The group proposed that a slide set be created that answers the question:
+"Why should I run my group under the umbrella of the R Consortium" that includes a Q&A.
+
+Next Steps
+Ning and Andy are going to speak with the R / Pharma organizers.
+Brian is scheduled to meet with R / Pharma organizer Harvey Lieberman about the website and GDPR compliance.
+
+Andy raised the issue of coordinating with working groups sponsored by PHUSE and suggested that we speak with Mike Stackhouse. Joe suggested that we investigate the PHUSE working groups and decide which are important to us and decide how we can best work with PHUSE. We agreed to address this at the next meeting.
+
+
+
