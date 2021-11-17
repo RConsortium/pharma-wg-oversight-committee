@@ -1,0 +1,45 @@
+---
+title: "POC_Minutes_11-17-2021"
+author: "Joseph Rickert"
+date: "11/17/2021"
+output: html_document
+---
+
+## Minutes of the Pharma Oversight Committee 2021-11-17
+
+### Attendees
+* Keaven - Anderson - MERCK
+* Ning Leng - Roche
+* Andy Nicholls - GSK
+* Joseph Rickert - RStudio
+
+**JR** brought the meeting to order and began by stating that he thought that the R Adoption Series webinar presented by Roche employees went very well. This initiated a short conversation about whether an early start time may limit attendance.
+
+The group then turned to topic of whether it would be appropriate for the Roche, Novartis and GSK collaboration to use the R Validation Hub GitHub repository.
+
+Background: It was announced at R/Pharma that Roche, Novartis and GSK have begun working together on joint framework for assessing package reliability. The aim is to share this publicly. The three companies are currently working to define the basic framework, and in order to make quick progress they are discussing excluding other companies from participating until they have something presentable.
+
+**JR** stated that he believed that having an exclusive project like this operate as part of the R Consortium, or using R Consortium resources would constitute a violation of the Anti-Trust laws that bind the R Consortium.
+
+There was some discussion about whether it was really necessary to limit participation to make speedy progress. **NL** and **JR** pointed out that the Submissions WG, which is open to all with over twenty people regularly attending monthly meetings, was able to make quick progress by setting aggressive deadlines. Only the handful of Submission WG members who are willing to do the work are part of the subgroup are actually preparing and making the submission. 
+
+**AN** said he will report back to the collaborators and present what seem to be the two workable alternatives:
+
+1. The collaborators open up the collaboration with the expectation that a dynamic similar to what occurred with the Submissions WG will naturally develop. 
+
+2. The collaborators operate completely outside of the RC until they are ready with a framework.
+
+**JR** then turned the discussion to a summary of important RC activities that will happen before the end of the year. These are primarily:
+
+* The RC Board meeting: 2021-12-8
+* The RC Member meeting: 2021-12-10
+* The R Adoption Webinar: 2021-12-10
+
+**JR** observed that both the Board meeting and the Members meeting will include a discussion of RC strategy for 2022. Part of the RC strategy for 2022 will comprise coordinating the activities among the RC Marketing Committee, the Diversity and Inclusion WG, and the RUGS program to strengthen and expand the ability of the RC to develop and support "Social Infrastructure".
+
+**JR** also stated that a goal of the RC members meeting is to inform individuals who work for RC member companies how the RC operates, and to showcase current high-profile projects. The goal is to increase the opportunities for member company employees to engage with the RC. 
+
+**JR** then asked those present if they had suggestions about what might be done next year to help with the RC activities of the Pharma members. **AN** suggested that finding a way to have member companies involve employees with project management and technical skills would make it easier to undertake and make progress on projects. There was some discussion about how this is done at Transcelerate. 
+
+
+
