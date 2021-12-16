@@ -1,0 +1,28 @@
+---
+title: "POC_Minutes_12_15_2021"
+author: "Joseph Rickert"
+date: "12/15/2021"
+output: html_document
+---
+
+## Minutes of the Pharma Oversight Committee 2021-12-15
+
+### Attendees
+* Bob Engle - Biogen
+* Ning Leng - Roche
+* Andy Nicholls - GSK
+* Joseph Rickert - RStudio
+
+JR brought the meeting to order and provided those present with an update about activities in Pharma related working groups. There was some discussion about the recent Members only event and the successful pilot test submission from the Submissions working group. All agreed that the event was getting a lot of attention in the pharma community.
+
+Ning said that the Submissions team would regroup in January to decide next steps.
+
+The group also briefly discussed the direction R/Pharma is taking. The word on the street is that James Black and Phil Bowsher are moving forward with the idea of forming an independent organization. Ning will speak with James to confirm.
+
+There was a short discussion about Pharma related technical projects that the group might propose for next year. There was some enthusiasm for an effort to standardize data structures for packages useful for clinical trial design.
+
+In a discussion about recruiting Pharma companies to the RC those present agreed that it would be a good idea to look at medical device companies. JR said he would compile a list of people participating in pharma working groups to see which medical device companies were represented.
+
+The meeting closed with a discussion about having the RC invest in a platform for webinars that would facilitate interaction among the participants. Andy reported that the difficulty of getting a conversation going among the attendees of the recent R Adoption series event was disappointing to the organizers.
+
+JR agreed to look into acquiring a Hopin license.
