@@ -44,7 +44,7 @@ Joseph Rickert started the meeting asking the organizing committee to make recom
   * is interested in open source activities outside of R
   * Michael Rimler is the new PhUSE Director of Open Source
   * is an R Consortium partner
-  * Support should include social media promotion
+  * The RC should provide social media promotion
   * The RC should expect reciprocation
   
 * [PSI](https://psiweb.org/)
