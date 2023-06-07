@@ -36,6 +36,13 @@ Sumesh and James noted that there will also be a [Shanghai event](https://mp.wei
 
 **Action:** Sumesh will communicate with his colleagues to obtain materials that could be used to promote activities in both China and Japan.
 
+### Event in Europe
+
+Sumesh noted that he is looking for someone from the R Consortium to participate in an upcoming panel discussion focused on open-source technologies, which will take place in the 2023 EU PHUSE connect, November 5th to 8th, in Birmingham, UK.
+
+**Action:** 
+JBR will determine whether he can personally participate or find another suitable panel member.
+
 The next meeting will be at 9AM Pacific Time on Wednesday, July 19, 2023.  
 
 **Action:** JBR will publish an agenda ahead of the meeting.
